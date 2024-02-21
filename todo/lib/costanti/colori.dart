@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' show Color;
 
 const Color tdRed = Color(0xFFDA4040);
 const Color tdBlue = Color(0xFF5F52EE);

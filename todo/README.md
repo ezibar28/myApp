@@ -1,6 +1,5 @@
 # todo
-
-A new Flutter project.
+Questa applicazione è un ToDo nella quale si possono inserire vari obiettivi da raggiungere ,una volta raggiunti si possono spuntare ed eliminare, si può inoltre cercare un elemento in particolare tra tutti quelli che ci sono tramite la barra di ricerca.
 
 ## Getting Started
 
